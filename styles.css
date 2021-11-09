@@ -1,0 +1,15 @@
+.title {
+  margin: 0;
+  font-size: 9rem;
+  color: #123fa1;
+  font-weight: 700;
+}
+html,
+body {
+  font-size: 15px;
+}
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  color: #000;
+}

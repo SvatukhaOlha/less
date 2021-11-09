@@ -1,0 +1,12 @@
+{
+  "version": "4.1.2",
+  "tasks": [
+    {
+      "label": "Less Compile",
+      "type": "shell",
+      "command": "lessc styles.less styles.css",
+      "group": "build",
+      "compress": "true"
+    }
+  ]
+}
